@@ -42,7 +42,6 @@ class Book(models.Model):
 
     display_genre.short_description = 'Genre'
 
-
     def __str__(self):
         return self.title
 
