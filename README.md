@@ -1,4 +1,4 @@
-# Django Local Library 
+# Local Library Management System using Django
 
 ## Overview
 
