@@ -32,7 +32,7 @@ DEBUG = os.environ.get('DJANGO_DEBUG', '') != 'False'
 ##SESSION_SAVE_EVERY_REQUEST = True
 LOGIN_REDIRECT_URL = '/'
 
-ALLOWED_HOSTS = ['libraryok.herokuapp.com']
+ALLOWED_HOSTS = ['libraryok.herokuapp.com','127.0.0.1']
 
 
 # Application definition
