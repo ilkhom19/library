@@ -3,7 +3,7 @@
 ## Overview
 
 This web application creates an online catalog for a small local library, where users can browse available books and manage their accounts.
-[Deployed version of the project] (https://libraryok.herokuapp.com)
+[Deployed version of the project](https://libraryok.herokuapp.com)
 
 The main features that have currently been implemented are:
 
