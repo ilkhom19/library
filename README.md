@@ -33,4 +33,4 @@ To get this project up and running locally on your computer:
 1. Create a few test objects of each type.
 1. Open tab to `http://127.0.0.1:8000` to see the main site, with your new objects.
 
-# Ilkhomzhon Sidikov, May 2022
+### C:  Ilkhomzhon Sidikov, May 2022
